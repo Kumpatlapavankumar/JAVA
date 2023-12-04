@@ -1,6 +1,6 @@
 //comment
 //Comments means-It is not read by the computer it is just visible who is seen the code to understand it 
-//Comments-two type
+//Comments-two ype
 //single line-//
 class suticase{
    public static void main(String[] args){
